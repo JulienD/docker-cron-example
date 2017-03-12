@@ -7,7 +7,7 @@ You can run it using
 
     $ docker build -t docker-cron-example .
 
-    $ docker build -it --name cron-example docker-cron-example
+    $ docker run -it --name cron-example docker-cron-example
 
 Few minutes after having started the container you should see something similar to this:
 
