@@ -1,2 +1,2 @@
-* * * * * root echo "Hello ${ENV_NAME}" >> /var/log/cron.log 2>&1
-# Don't forget the mandatory empty line at the end of the file to make the cron file valid.
+* * * * * echo "Hello ${ENV_NAME}" >> /var/log/cron/cron.log 2>&1
+# An empty line is required at the end of this file for a valid cron file.
