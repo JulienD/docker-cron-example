@@ -85,3 +85,9 @@ CMD ["/run-crond.sh"]
 MIT License, see [LICENSE](License.txt) for details.
 
 Copyright (c) 2017 Julien Dubreuil
+
+---
+
+> GitHub [@JulienD](https://github.com/JulienD) &nbsp;&middot;&nbsp;
+> [Blog](http://juliendubreuil.fr) &nbsp;&middot;&nbsp;
+> Twitter [@juliendubreuil](https://twitter.com/juliendubreuil)
